@@ -1,0 +1,13 @@
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\bin\Debug\netstandard2.0\xamlCalc.deps.json
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\bin\Debug\netstandard2.0\xamlCalc.dll
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\bin\Debug\netstandard2.0\ref\xamlCalc.dll
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\bin\Debug\netstandard2.0\xamlCalc.pdb
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\xamlCalc.AssemblyInfoInputs.cache
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\xamlCalc.AssemblyInfo.cs
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\xamlCalc.dll
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\ref\xamlCalc.dll
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\xamlCalc.pdb
+C:\Users\presc\source\repos\xamlCalc\xamlCalc\xamlCalc\obj\Debug\netstandard2.0\xamlCalc.csprojAssemblyReference.cache
