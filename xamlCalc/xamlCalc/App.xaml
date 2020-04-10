@@ -6,6 +6,32 @@
              mc:Ignorable="d"
              x:Class="xamlCalc.App">
     <Application.Resources>
+        <Thickness x:Key="PageMargin">20</Thickness>
+        <!-- Colors -->
+        <Color x:Key="AppBackgroundColor">AliceBlue</Color>
+        <Color x:Key="NavigationBarColor">#1976D2</Color>
+        <Color x:Key="NavigationBarTextColor">White</Color>
+        <Color x:Key="NormalTextColor">Black</Color>
+        <!-- Implicit styles -->
+        <Style x:Key="NumButton" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="Beige"/>
+            <Setter Property="CornerRadius"  Value="30"/>
+            <Setter Property="FontSize"  Value="50"/>
+         
+        </Style>
+        <Style x:Key="OpButton" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#E8AD00"/>
+            <Setter Property="FontSize"  Value="50"/>
+            <Setter Property="CornerRadius"  Value="20"/>
+
+        </Style>
+        <Style x:Key="SubButton" TargetType="Button">
+            <Setter Property="BackgroundColor" Value="SlateGray"/>
+            <Setter Property="CornerRadius"  Value="30"/>
+            <Setter Property="FontSize"  Value="30"/>
+            <Setter Property="FontAttributes"  Value="Bold"/>
+
+        </Style>
 
     </Application.Resources>
 </Application>
